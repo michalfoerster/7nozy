@@ -3,3 +3,5 @@ title: siedem nozy
 description: siedem nozy
 author:
   name: Michal Foerster
+exclude:
+  - README.md
